@@ -1,5 +1,6 @@
 # Projet-Finance-Compte-d'épargne-réalisé-par-Souid-Mohamed-Aziz
-Fonctionnalités
+-Fonctionnalités:
+
 Créer un Compte d'épargne:
 
 Entrez le capital initial et la date de création du compte.
@@ -13,7 +14,8 @@ Tableau Financier:
 
 Affiche un tableau avec des colonnes pour la date, l'ID, le nom, l'action, le solde, la date de valeur, les jours, le taux d'intérêt et l'intérêt.
 
-Utilisation
+-Utilisation:
+
 Créer un Compte:
 
 Remplissez le capital initial, la date de création du compte, l'ID et le nom.
